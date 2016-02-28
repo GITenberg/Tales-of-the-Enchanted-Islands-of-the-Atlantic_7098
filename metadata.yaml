@@ -1,0 +1,38 @@
+_repo: Tales-of-the-Enchanted-Islands-of-the-Atlantic_7098
+creator:
+  author:
+    agent_name: Higginson, Thomas Wentworth
+    alias: Higginson, T. W. (Thomas Wentworth)
+    birthdate: 1823
+    deathdate: 1911
+    gutenberg_agent_id: '503'
+    url: http://www.gutenberg.org/2009/agents/503
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Wentworth_Higginson
+description: Atlantis, King Arthur's Avalon, and Brendan's voyage are among the subjects
+  in the harvest of tales of wonder, mystery, and myth retold in this compendium.
+  Based on actual legends from the "mythical period of American history," the stories
+  include "The Swan-Children of Lir," "The Isle of Satan's Hand," "The Island of Demons,"
+  "Bimini and the Fountain of Youth," and many more.
+gutenberg_bookshelf: Arthurian Legends
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7098'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Geographical myths -- Juvenile literature'
+- !lcsh 'Legends -- Juvenile literature'
+- !lcc 'PZ'
+- !lcsh 'Mythology -- Juvenile literature'
+tableOfContents: The story of Atlantis -- Taliessin of the radiant brow -- The swan-children
+  of Lir -- Usheen in the Island of Youth -- Bran the Blessed -- The Castle of the
+  Active Door -- Merlin the enchanter -- Sir Lancelot of the Lake -- The Half-Man
+  -- King Arthur at Avalon -- Maelduin's voyage -- The voyage of St. Brandan -- Kirwan's
+  search for Hy-Brasail -- The Isle of Satan's Hand -- Antillia, the Island of the
+  Seven Cities -- Harald the Viking -- The search for Norumbega -- The guardians of
+  the St. Lawrence -- The Island of Demons -- Bimini and the Fountain of Youth.
+title: Tales of the Enchanted Islands of the Atlantic
+url: http://www.gutenberg.org/ebooks/7098
