@@ -1,4 +1,8 @@
 _repo: Tales-of-the-Enchanted-Islands-of-the-Atlantic_7098
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Higginson, Thomas Wentworth
@@ -13,6 +17,8 @@ description: Atlantis, King Arthur's Avalon, and Brendan's voyage are among the 
   Based on actual legends from the "mythical period of American history," the stories
   include "The Swan-Children of Lir," "The Isle of Satan's Hand," "The Island of Demons,"
   "Bimini and the Fountain of Youth," and many more.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7098#Tales-of-the-Enchanted-Islands-of-the-Atlantic
 gutenberg_bookshelf: Arthurian Legends
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
